@@ -1,16 +1,3 @@
-/*
-Theme Name: Felicity
-Theme URI: http://vpthemes.com/felicity/
-Author: Vitaly Pinchev	
-Author URI: http://vpthemes.com
-Description: Felicity is a multipurpose responsive WordPress theme. Introducing a very clean and neat design, Felicity is super easy to use. It has advanced admin panel, supports responsive design, two awesome image sliders, customizable home page sections, custom logo and favicon, Google fonts, unlimited colors for the menu widgets header and footer, translation ready, 4 footer widget columns, scroll to top feature, social links, support for Contact Form 7, eight post formats and more.
-Version: 1.0.7
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags:  white, light, one-column, two-columns, right-sidebar, left-sidebar, fluid-layout, responsive-layout, custom-background, custom-menu, custom-colors, featured-images, post-formats, theme-options, threaded-comments, translation-ready, full-width-template 
-Text Domain: felicity
-*/
-
 /**
  * Table of Contents:
  *
@@ -4156,3 +4143,4 @@ button:hover {
 .woocommerce .related {
     clear: both;
 }
+{this is a test  file}
